@@ -1,0 +1,24 @@
+body{
+height: 100vh; background-image: linear-gradient(to bottom right, purple, pink, white, #82CFFF);
+}
+.estiloLink{
+  background-position:  center;
+  background-size: 85%;
+  background-repeat: no-repeat;
+  background-image: url("../fonts/cam.png");
+  margin-top: 2vh;
+  margin-left:38vw;
+}
+
+.row1{
+  margin-top: 30%;
+  bottom: 0;
+  left: 10;
+  width: 90%;
+}
+
+.img-responsive{
+  margin-top: 10px;
+  width: 100%;
+  height: 95%;
+}
