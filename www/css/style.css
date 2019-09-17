@@ -1,5 +1,9 @@
 body{
-height: 100vh; background-image: linear-gradient(to bottom right, purple, pink, white, #82CFFF);
+ background-color: #191919;
+  background-image: url("../fonts/images.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+background-size: 100%;
 }
 .estiloLink{
   background-position:  center;
@@ -11,10 +15,9 @@ height: 100vh; background-image: linear-gradient(to bottom right, purple, pink, 
 }
 
 .row1{
-  margin-top: 30%;
-  bottom: 0;
-  left: 10;
+  margin-top: 10%;
   width: 90%;
+  color:rgb(176, 192, 192);
 }
 
 .img-responsive{
